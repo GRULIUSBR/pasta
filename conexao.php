@@ -5,7 +5,7 @@
 //PDO interface do php q permite conversar com o banco de dados por meio de um driver
 //host = 'localhost'
 
-$host = '194.61.238.119';
+$host = 'localhost';
 $db = 'jose755';
 $user = 'jose755';
 $pass = '755!@#';
